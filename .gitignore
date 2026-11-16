@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# WordPress runtime junk
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/debug.log
+
+# migration backups (big files)
+wp-content/ai1wm-backups/
+*.wpress
+
+# OS/editor
+.DS_Store
+.vscode/
